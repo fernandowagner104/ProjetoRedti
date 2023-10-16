@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RedtiApp</string>
+    <string name="resources">Recursos</string>
+    <string name="add_resource">Adicionar recurso</string>
+    <string name="nameResource">Recurso</string>
+    <string name="brand">Marca</string>
+    <string name="qnt">Qnt</string>
+    <string name="featureResource">Característica</string>
+    <string name="obs">Obs</string>
+
+</resources>
